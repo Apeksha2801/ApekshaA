@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(50, 54, 54);
+    background-size: cover;
+  }
+  .box{
+    width: 500px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+  }
+  .box-img{
+    border-radius: 40%;
+    width: 160px;
+    height: 200px;
+  }
+  .box h1{
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight: 100;
+  }
+  .box h2{
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: palevioletred;
+    font-weight: 100;
+  }
+  ul{
+    margin: 0;
+    padding: 0;
+  } 
+  .box1 h3{
+    font-size: 35px;
+    color: slategray;
+    text-align: justify;
+  }
+  p{
+    text-align: justify;
+  }
+  .box1{
+    width: 1000px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+  }
+  .box1 h4{
+    font-size: 35px;
+    color: slategray;
+    text-align: justify;
+  }
+  .box1 li{
+    margin: 6px;
+    list-style: disc;
+    text-align: left ;
+    list-style-position: inside;
+  }
+  .box2{
+    background: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    text-align: left;
+    margin: auto;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+  }
+  .box2 li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+  }
+  .box2 li a{
+    color: gainsboro;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: all ease-in-out 300ms;
+  }
+  .box2 li a:hover{
+    color: dimgray;
+  }
+
+  .box4{
+    width: 1040px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+  }
+  .box4 h5{
+    font-size: 35px;
+    color: slategray;
+  }
+  .box4 li{
+    display: inline-block;
+    margin: 20px;
+    list-style: none;
+  }
+  .box4 li a{
+    color: palevioletred;
+    font-size: 60px;
+    transition: all ease-in-out 300ms;
+  }
+  .box4 li a:hover{
+    color: lightpink;
+  }
